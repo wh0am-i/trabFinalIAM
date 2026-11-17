@@ -1,0 +1,12 @@
+{
+  "occupancy": {
+    "url": "https://archive.ics.uci.edu/static/public/357/occupancy+detection.zip",
+    "sha256": "4ae3f46aa98eedff564a9f6924d1635173e2fd2c816004342a9be93076d3a81a",
+    "verificado_em_utc": "2026-11-17T19:25:17.848205+00:00"
+  },
+  "ccpp": {
+    "url": "https://archive.ics.uci.edu/static/public/294/combined+cycle+power+plant.zip",
+    "sha256": "cc7b2a4977c0a44e8221c91d9a7e5746b3c68186cff7e5c61c70af6432b98c7a",
+    "verificado_em_utc": "2026-11-17T19:25:34.790962+00:00"
+  }
+}
